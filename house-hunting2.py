@@ -1,5 +1,6 @@
 
 
+# Working!
 
 annual_salary = float(input('Enter your annual salary: '))
 percent_of_salary = float(input('Enter the percent of your salary to save, as a decimal: '))
